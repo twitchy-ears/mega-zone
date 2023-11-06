@@ -1,7 +1,7 @@
 # mega-zone
 A wrapper for zone that will effect your other frames and windows as well as the one with focus.
 
-![An emacs window showing two emacs frames next to each other both with zone nyan cats in them](/../screenshots/screenshots/mega-zone-screenshot-2023-11-06.png?raw=true "An example using the excellent https://github.com/emacsmirror/zone-nyan")
+![An emacs window showing two emacs frames next to each other both with zone nyan cats in them](/../screenshots/mega-zone-screenshot-2023-11-06.png?raw=true "An example using the excellent https://github.com/emacsmirror/zone-nyan")
 
 Another quick lunchtime (and some evening and other fiddles) hack where the instructions look something like this:
 
